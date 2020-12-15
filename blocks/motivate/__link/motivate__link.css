@@ -1,0 +1,12 @@
+.motivate__link{
+
+  color: #bd7920;
+  text-decoration: none;
+
+}
+
+.motivate__link::selection{
+
+  color: white;
+  background-color: #AB8B62;
+}

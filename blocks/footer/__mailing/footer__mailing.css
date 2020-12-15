@@ -1,0 +1,53 @@
+.footer__mailing{
+
+  position: relative;
+
+  width: 320px;
+  height: 80px;
+
+  margin-top: 50px;
+
+
+  border: 2px solid #92683C;
+
+  background: transparent;
+  outline: none;
+
+  z-index: 1;
+
+  font-family: 'LeagueGothic';
+  font-size: 30px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: white;
+
+  cursor: pointer;
+
+   transition: 0.6s;
+
+}
+
+
+.footer__mailing:hover{
+
+  color: #1C1F21;
+}
+
+.footer__mailing::before{
+
+  content: '';
+  position: absolute;
+  background: #92683C;
+
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 100%;
+  z-index: -1;
+  transition: 0.4s;
+}
+
+.footer__mailing:hover::before{
+
+  top: 0;
+}

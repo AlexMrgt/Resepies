@@ -1,0 +1,12 @@
+.description__image{
+
+  width: 250px;
+
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.description__image::selection {
+  background: #AB8B62;
+ }

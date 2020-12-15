@@ -1,0 +1,13 @@
+.quote__text{
+
+  font-family: 'CormorantSC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 1.2;
+
+
+  margin: 0;
+  padding: 0;
+  color: white;
+}

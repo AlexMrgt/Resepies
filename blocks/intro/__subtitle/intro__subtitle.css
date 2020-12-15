@@ -1,0 +1,19 @@
+.intro__subtitle{
+
+  position: relative;
+  z-index: 3;
+
+  font-family: 'CormorantSC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+
+  color: #FCFBF8;
+
+  margin: 0;
+  padding: 0;
+}
+.intro__subtitle::selection{
+
+  background-color: #AB8B62;
+}

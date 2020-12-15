@@ -1,0 +1,16 @@
+.description__text{
+
+  font-family: 'CormorantSC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 1.4;
+
+  text-align: center;
+
+  max-width: 750px;
+}
+.description__text::selection {
+
+   background: #AB8B62;
+  }

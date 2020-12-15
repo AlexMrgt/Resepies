@@ -1,0 +1,54 @@
+
+/* под МЕГА ЗАГОЛОВОК */
+@font-face {
+
+  font-family: 'LeagueGothic';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("LeagueGothic.ttf") format('truetype');
+       /*url("Inter-Black.woff?v=3.15") format("woff");*/
+}
+
+
+@font-face {
+
+  font-family: 'Oswald';
+  font-style:  normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("Oswald-ExtraLight.ttf") format('truetype');
+       /*url("Inter-Black.woff?v=3.15") format("woff");*/
+}
+
+/* меню */
+@font-face {
+
+  font-family: 'Oswald';
+  font-style:  normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("Oswald-Light.ttf") format('truetype');
+       /*url("Inter-Black.woff?v=3.15") format("woff");*/
+}
+
+@font-face {
+
+  font-family: 'CormorantSC';
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("CormorantSC-Medium.ttf") format('woff');
+       /*url("Inter-Black.woff?v=3.15") format("woff");*/
+}
+
+@font-face {
+
+  font-family: 'CormorantSC';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("CormorantSC-Bold.ttf") format('woff');
+       /*url("Inter-Black.woff?v=3.15") format("woff");*/
+}
+

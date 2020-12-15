@@ -1,0 +1,20 @@
+.motivate__description{
+
+  font-family: 'CormorantSC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 1.4;
+
+  margin: 0;
+  padding: 0;
+  /* refactor */
+  max-width: 900px;
+}
+
+
+.motivate__description::selection{
+
+  color: white;
+  background-color: #AB8B62;
+}

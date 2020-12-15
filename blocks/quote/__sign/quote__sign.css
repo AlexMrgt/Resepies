@@ -1,0 +1,14 @@
+.quote__sign{
+
+  font-family: 'LeagueGothic';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 1.15;
+  letter-spacing: 2px;
+
+  margin: 50px 0 0 0;
+  padding: 0;
+
+  color: #AB8B62;
+}

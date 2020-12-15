@@ -1,0 +1,23 @@
+.intro__title{
+
+  position: relative;
+  z-index: 3;
+
+  font-family: 'CormorantSC-Bold';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 1.2;
+
+  margin: 0 0 20px 0;
+  padding: 0;
+
+  color: #FCFBF8;
+
+
+}
+
+.intro__title::selection{
+
+  background-color: #AB8B62;
+}
