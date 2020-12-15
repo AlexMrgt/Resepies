@@ -1,6 +1,6 @@
 # Resepies
 
-Посмотреть вживую: [Links](https://alexmrgt.github.io/Resepies/)
+ [Посмотреть вживую](https://alexmrgt.github.io/Resepies/)
 
 На данный момент сайт представляет собой HTML-заготовку под сайт с рецептами.
 
